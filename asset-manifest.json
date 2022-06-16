@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/national-youth-bike-council/static/css/main.79d11213.css",
-    "main.js": "/national-youth-bike-council/static/js/main.36877e15.js",
+    "main.css": "/national-youth-bike-council/static/css/main.13fc7c53.css",
+    "main.js": "/national-youth-bike-council/static/js/main.943b39a9.js",
     "static/media/community.png": "/national-youth-bike-council/static/media/community.59efb30212d6b6333d79.png",
     "static/media/luly.png": "/national-youth-bike-council/static/media/luly.16b7da08eda8eeed25d7.png",
     "static/media/lot.png": "/national-youth-bike-council/static/media/lot.008e7749d6056b1ffbbe.png",
@@ -10,6 +10,7 @@
     "static/media/education.png": "/national-youth-bike-council/static/media/education.17258c0db64558914b56.png",
     "static/media/agae.png": "/national-youth-bike-council/static/media/agae.31b8290a2c75f7801485.png",
     "static/media/Balgin-Black.ttf": "/national-youth-bike-council/static/media/Balgin-Black.7c99cf210db587c61d75.ttf",
+    "static/media/advisors.png": "/national-youth-bike-council/static/media/advisors.8de005b2a800fba821fd.png",
     "static/media/zoe.png": "/national-youth-bike-council/static/media/zoe.f83a614224976b85919d.png",
     "static/media/bria.png": "/national-youth-bike-council/static/media/bria.9a5fc178808cac2f4988.png",
     "static/media/joshua.png": "/national-youth-bike-council/static/media/joshua.926d3a471079ac44dc6f.png",
@@ -30,11 +31,11 @@
     "static/media/icon-youtube.svg": "/national-youth-bike-council/static/media/icon-youtube.2d3693ac73af2bca8bcd815ac54149a5.svg",
     "static/media/icon-facebook.svg": "/national-youth-bike-council/static/media/icon-facebook.b19e737913af66327cdbf4b60527a8b3.svg",
     "static/media/btn-arrow.svg": "/national-youth-bike-council/static/media/btn-arrow.12220232a87522168ab37bbe70f545ec.svg",
-    "main.79d11213.css.map": "/national-youth-bike-council/static/css/main.79d11213.css.map",
-    "main.36877e15.js.map": "/national-youth-bike-council/static/js/main.36877e15.js.map"
+    "main.13fc7c53.css.map": "/national-youth-bike-council/static/css/main.13fc7c53.css.map",
+    "main.943b39a9.js.map": "/national-youth-bike-council/static/js/main.943b39a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.79d11213.css",
-    "static/js/main.36877e15.js"
+    "static/css/main.13fc7c53.css",
+    "static/js/main.943b39a9.js"
   ]
 }
